@@ -1,4 +1,4 @@
-package com.example.Susie.Lou.Creates;
+package com.Susie.Lou.Creates;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

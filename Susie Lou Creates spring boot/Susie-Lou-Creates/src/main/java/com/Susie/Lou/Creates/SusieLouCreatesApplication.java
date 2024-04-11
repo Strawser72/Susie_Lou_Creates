@@ -1,4 +1,4 @@
-package com.example.Susie.Lou.Creates;
+package com.Susie.Lou.Creates;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
